@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/sample_app.iml" filepath="$PROJECT_DIR$/.idea/sample_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sixty-rails-master/.idea/sixty-rails-master.iml" filepath="$PROJECT_DIR$/../sixty-rails-master/.idea/sixty-rails-master.iml" />
     </modules>
   </component>
 </project>
